@@ -1,0 +1,6 @@
+print("１つめの数値を入力してください")
+a = int(input())
+print("２つめの数値を入力してください")
+b = int(input())
+c = (a + b)
+print("合計数値は",c,"です")
